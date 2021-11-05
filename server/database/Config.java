@@ -4,7 +4,7 @@ public class Config {
     protected static String dbHost="LocalHost";
     protected static String dbPort="3306";
     protected static String dbUser="root";
-    protected static String dbPassword="root";
+    protected static String dbPassword="";
     protected static String dbName="todo";
     protected  static  String jdbcURl =  "jdbc:mysql://localhost:3306/todo";
     protected  static String servertable=  "serverdata";
